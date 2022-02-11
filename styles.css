@@ -193,6 +193,10 @@ footer {
     border: 1px solid #eee;
 }
 
+.post-title {
+    font-weight: 900;
+}
+
 .error {
     color: darkred;
 }
